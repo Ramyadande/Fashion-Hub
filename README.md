@@ -87,5 +87,5 @@ Azure Search Service is a fully managed, cloud-based search-as-a-service solutio
 
 
 # FINAL PROJECT STATEMENT:
-This fashion hub offers the most suitable dressings for people of every skin tone, catering to both men and women. Not only does it help in selecting appropriate attire, but it also enhances confidence levels and improves one's appearance in society. Our aim is to explore each person's appearance with the most suitable dressing styles.
+This fashion hub offers the most suitable dressings for people of every skin tone, catering to both men and women. Not only does it help in selecting appropriate attire, but it also enhances confidence levels and improves one's appearance in society. Our aim is to explore each person's appearance with the most suitable dressing styles.Due to the geographical diversity within our nation, spanning from north to south and east to west, we encounter people with various skin tones. Therefore, we aim to assist each individual in selecting the best available products in the market according to their skin tone.
 
