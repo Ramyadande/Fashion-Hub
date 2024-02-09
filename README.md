@@ -3,9 +3,9 @@
 Our fashion service aims to offer a user-friendly platform, we provide personalized suggestions based on their skin tone.
 
 # Project Details:
-Project Demo URL:
+Project Demo URL:https://portal.azure.com/#home
 
-Static Website URL:
+Static Website URL:https://storagefashion.z13.web.core.windows.net/
 
 Youtube Video URL :
 
