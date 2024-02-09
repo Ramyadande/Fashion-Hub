@@ -2,13 +2,13 @@
 Our fashion service aims to offer a user-friendly platform, we provide personalized suggestions based on their skin tone.
 
 # Project Details:
-Project Demo URL: https://portal.azure.com/#home
+Project Demo URL:
 
-Static Website URL: https://skillstorage07.z13.web.core.windows.net/
+Static Website URL:
 
-Youtube Video URL : https://www.youtube.com/watch?v=Gzh3GoutcPI
+Youtube Video URL :
 
-GIT HUB URL: https://github.com/alekyagummala/Explore-Skills_Azure
+GIT HUB URL:
 
 
 # Team & Responsibilities:
