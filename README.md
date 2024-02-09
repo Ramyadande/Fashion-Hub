@@ -86,6 +86,6 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
 
 
-# FINAL PROJECT STATEMENT
-This fashion hub offers the most suitable dressings for people of every skin tone, catering to both men and women. Not only does it help in selecting appropriate attire, but it also enhances confidence levels and improves one's appearance in society. Our aim is to explore each person's appearance with the most suitable dressing styles
+# FINAL PROJECT STATEMENT:
+This fashion hub offers the most suitable dressings for people of every skin tone, catering to both men and women. Not only does it help in selecting appropriate attire, but it also enhances confidence levels and improves one's appearance in society. Our aim is to explore each person's appearance with the most suitable dressing styles.
 
