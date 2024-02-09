@@ -65,15 +65,22 @@ Azure Blob Storage is a cloud-based object storage service in Microsoft Azure, d
 # Azure Backup Service:
 Azure Backup Service is a cloud-based solution provided by Microsoft Azure that enables organizations to back up and protect their data and workloads in the cloud. It offers a reliable and scalable backup solution with features designed to safeguard critical information.
 
+![data protection](https://github.com/Ramyadande/fashion-hub/assets/158997187/2652edcc-4e16-495b-99b9-78d4ef7b7002)
+
+
 
 # Azure RBAC which is a role-based access service:
 Azure RBAC, or Role-Based Access Control, is a service provided by Microsoft Azure that helps manage and control access to Azure resources. It is a security model that allows administrators to define who (identity) can do what (actions) on specific resources in Azure. RBAC helps in implementing the principle of least privilege, ensuring that users have only the necessary permissions to perform their tasks and limiting the risk of unauthorized access.
+![azure role](https://github.com/Ramyadande/fashion-hub/assets/158997187/104d7302-0b38-4648-87a3-6ead958fc6ca)
+
 
 # AZURE AI SERVICES:
 
 
 # Azure Bot Service:
 Azure Bot Service is a cloud-based service provided by Microsoft Azure that enables the development, deployment, and management of intelligent bots. Bots created using Azure Bot Service can interact with users across various channels, such as web, mobile, Microsoft Teams, Skype and more.
+![launguage](https://github.com/Ramyadande/fashion-hub/assets/158997187/6593a3df-85cc-4df1-bf3a-6f6883a3100e)
+
 
 
 # Manage Identity:
