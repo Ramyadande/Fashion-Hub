@@ -1,4 +1,4 @@
-# fashion-hub.
+# Fashion Hub
 Our fashion service aims to offer a user-friendly platform, we provide personalized suggestions based on their skin tone.
 
 # Project Details:
@@ -48,3 +48,12 @@ The problem addressed by the project Fashion Hub lies in the contemporary challe
 In recent times, individuals aspire to cultivate a stylish appearance, driving a significant surge in the fashion industry. The escalating trend sees people investing substantial amounts in clothing and accessories that resonate with their personal style. However, a notable challenge arises as the fast-paced lifestyle leaves little room for traditional shopping experiences. Many have turned to online platforms such as Myntra, Amazon and Flipkart for convenience. Yet, a common predicament persists—online representations of clothing are often showcased on random models, creating a discrepancy between the aesthetic appeal of the garment on the model and its compatibility with the customer's unique attributes.
 
 Despite the product's quality, the divergence in skin tones between the models and the customers can lead to a sense of disappointment, leaving the latter feeling like their purchase was a regrettable investment. Recognizing this issue, we have conceived a solution to enhance the online shopping experience. Our proposal involves suggesting clothing based on the customer's skin tone, providing them with a visual representation of how the attire will complement their unique complexion. By offering this personalized approach, we aim to bridge the gap between expectation and reality, ensuring that customers make informed decisions, feels confident in their choices, and, ultimately, derives satisfaction from their online shopping experience. This user-friendly platform strives to create a seamless connection between fashion and individuality, empowering customers to make purchases that align with their personal style and enhance their overall satisfaction with the products they acquire.
+
+# AZURE CORE AZURE SERVICES:
+![storage create](https://github.com/Ramyadande/fashion-hub/assets/158995179/88ed5ce7-0ff0-44de-8184-1fd3da7c2731)
+
+# Azure Storage Account:
+Azure Storage Account is a cloud-based storage solution provided by Microsoft Azure, a leading cloud computing platform. It serves as a scalable and secure repository for various types of data, offering a range of storage services to meet diverse application needs.
+![storage](https://github.com/Ramyadande/fashion-hub/assets/158995179/9aab91da-8ada-460c-b145-556928cd24d0)
+
+
