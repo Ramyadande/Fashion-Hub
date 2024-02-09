@@ -7,7 +7,7 @@ Project Demo URL:https://portal.azure.com/#home
 
 Static Website URL:https://storagefashion.z13.web.core.windows.net/
 
-Youtube Video URL :
+Demo Video URL :https://youtube.com/watch?v=r-3V3Zh5h84&si=ZfWUfJZWueVyl8DP
 
 GIT HUB URL:
 
