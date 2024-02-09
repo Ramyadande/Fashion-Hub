@@ -5,8 +5,10 @@ Our fashion service aims to offer a user-friendly platform, we provide personali
 # Project Details:
 
 Project Demo URL:https://storagefashion.z13.web.core.windows.net/
+
 Demo Video URL :https://youtube.com/watch?v=r-3V3Zh5h84&si=ZfWUfJZWueVyl8DP
-GIT HUB URL:
+
+GIT HUB URL:https://github.com/Ramyadande/fashion-hub
 
 
 # Team & Responsibilities:
