@@ -13,19 +13,19 @@ GIT HUB URL:
 
 
 # Team & Responsibilities:
-1.Dande Ramya:
+# 1.Dande Ramya:
 
 Developer of the project. Created the website and managed the website using HTML, CSS, and Javascript.
 
-2.Ambati Vikas:
+# 2.Ambati Vikas:
 
 Developed the project. Data collection, Done the entire process.
 
-3.Jella Rambabu:
+# 3.Jella Rambabu:
 
 Development, deployment, Static website in Azure portal.
 
-4.Shetty Swapna:
+# 4.Shetty Swapna:
 
 Documentation and content collection of the project.
 
