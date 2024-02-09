@@ -100,8 +100,19 @@ Azure AI services encompass a suite of artificial intelligence (AI) offerings pr
 
 # Search Service:
 Azure Search Service is a fully managed, cloud-based search-as-a-service solution provided by Microsoft Azure. It allows developers to integrate powerful search capabilities into their applications without the need for complex infrastructure or extensive search engine expertise.
+![chat bot](https://github.com/Ramyadande/fashion-hub/assets/158997187/1641c71d-4238-49db-8c1e-a43524018d10)
+
 
 
 # FINAL PROJECT STATEMENT:
 This fashion hub offers the most suitable dressings for people of every skin tone, catering to both men and women. Not only does it help in selecting appropriate attire, but it also enhances confidence levels and improves one's appearance in society. Our aim is to explore each person's appearance with the most suitable dressing styles.Due to the geographical diversity within our nation, spanning from north to south and east to west, we encounter people with various skin tones. Therefore, we aim to assist each individual in selecting the best available products in the market according to their skin tone.
+![home](https://github.com/Ramyadande/fashion-hub/assets/158997187/509a270a-7c53-4c79-a510-38bc4c5e28c2)
+![about](https://github.com/Ramyadande/fashion-hub/assets/158997187/029a859c-3943-4e70-8cfd-03138e57ff0e)
+![collections](https://github.com/Ramyadande/fashion-hub/assets/158997187/95feb34f-0b6e-4403-8a5c-574875c744dd)
+![categ](https://github.com/Ramyadande/fashion-hub/assets/158997187/b6990ea9-67b4-4283-ac1e-5f2ac8539de0)
+![contact](https://github.com/Ramyadande/fashion-hub/assets/158997187/43cc43a5-048f-457a-9ad7-801586eda895)
+
+
+
+
 
