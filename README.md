@@ -10,6 +10,8 @@ Demo Video URL :https://youtube.com/watch?v=r-3V3Zh5h84&si=ZfWUfJZWueVyl8DP
 
 GIT HUB URL:https://github.com/Ramyadande/fashion-hub
 
+Industry:Life Style
+
 
 # Team & Responsibilities:
 # 1.Dande Ramya:
